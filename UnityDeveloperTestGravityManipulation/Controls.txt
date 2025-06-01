@@ -1,0 +1,6 @@
+Controls:
+W A S D for movement 
+Space Bar for Jump 
+Press Left Mouse and move mouse in the direction you want  to change gravity
+
+You can find Windows and macOS builds in the "Builds" folder to test the game.
